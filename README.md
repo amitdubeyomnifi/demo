@@ -1,2 +1,2 @@
-# demo
-This is demo repo for testing of github.
+# Demo
+This is a demo repo for testing of GitHub.
